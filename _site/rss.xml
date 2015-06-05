@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>just another blog on github</title>
+        <description>just another blog on github - </description>
+        <link>http://apfeltee.github.io</link>
+        <atom:link href="http://apfeltee.github.io/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Fri, 05 Jun 2015 17:06:42 +0200</lastBuildDate>
+        <pubDate>Fri, 05 Jun 2015 17:06:42 +0200</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>Lua: The Dark Side</title>
+                <description>&lt;p&gt;test test 1 2 3&lt;/p&gt;
+</description>
+                <link>http://apfeltee.github.io/entry-2015-5-6.html</link>
+                <guid>http://apfeltee.github.io/lua-the-dark-side</guid>
+                <pubDate>Wed, 06 May 2015 00:00:00 +0200</pubDate>
+        </item>
+
+
+</channel>
+</rss>

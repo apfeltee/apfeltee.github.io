@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lua: The Dark Side
+title: "Lua: The Dark Side"
 category: programming
 tags: [programming, lua, rant]
 ---
